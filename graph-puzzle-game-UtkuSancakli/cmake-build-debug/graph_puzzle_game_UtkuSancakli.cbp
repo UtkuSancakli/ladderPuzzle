@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="graph_puzzle_game_UtkuSancakli"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/utkusancakli/CLionProjects/graph-puzzle-game-UtkuSancakli/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/utkusancakli/CLionProjects/graph-puzzle-game-UtkuSancakli/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/utkusancakli/CLionProjects/graph-puzzle-game-UtkuSancakli/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/utkusancakli/CLionProjects/graph-puzzle-game-UtkuSancakli/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/utkusancakli/CLionProjects/graph-puzzle-game-UtkuSancakli/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="graph_puzzle_game_UtkuSancakli">
+				<Option output="/Users/utkusancakli/CLionProjects/graph-puzzle-game-UtkuSancakli/cmake-build-debug/graph_puzzle_game_UtkuSancakli" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/utkusancakli/CLionProjects/graph-puzzle-game-UtkuSancakli/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/utkusancakli/CLionProjects/graph-puzzle-game-UtkuSancakli/."/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/utkusancakli/CLionProjects/graph-puzzle-game-UtkuSancakli/cmake-build-debug/Makefile&quot;  VERBOSE=1 graph_puzzle_game_UtkuSancakli"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/utkusancakli/CLionProjects/graph-puzzle-game-UtkuSancakli/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/utkusancakli/CLionProjects/graph-puzzle-game-UtkuSancakli/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/utkusancakli/CLionProjects/graph-puzzle-game-UtkuSancakli/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="graph_puzzle_game_UtkuSancakli/fast">
+				<Option output="/Users/utkusancakli/CLionProjects/graph-puzzle-game-UtkuSancakli/cmake-build-debug/graph_puzzle_game_UtkuSancakli" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/utkusancakli/CLionProjects/graph-puzzle-game-UtkuSancakli/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/utkusancakli/CLionProjects/graph-puzzle-game-UtkuSancakli/."/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/utkusancakli/CLionProjects/graph-puzzle-game-UtkuSancakli/cmake-build-debug/Makefile&quot;  VERBOSE=1 graph_puzzle_game_UtkuSancakli/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/utkusancakli/CLionProjects/graph-puzzle-game-UtkuSancakli/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/utkusancakli/CLionProjects/graph-puzzle-game-UtkuSancakli/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/utkusancakli/CLionProjects/graph-puzzle-game-UtkuSancakli/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/utkusancakli/CLionProjects/graph-puzzle-game-UtkuSancakli/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/utkusancakli/CLionProjects/graph-puzzle-game-UtkuSancakli/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/utkusancakli/CLionProjects/graph-puzzle-game-UtkuSancakli/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/utkusancakli/CLionProjects/graph-puzzle-game-UtkuSancakli/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/utkusancakli/CLionProjects/graph-puzzle-game-UtkuSancakli/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/utkusancakli/CLionProjects/graph-puzzle-game-UtkuSancakli/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/utkusancakli/CLionProjects/graph-puzzle-game-UtkuSancakli/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/utkusancakli/CLionProjects/graph-puzzle-game-UtkuSancakli/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/utkusancakli/CLionProjects/graph-puzzle-game-UtkuSancakli/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/utkusancakli/CLionProjects/graph-puzzle-game-UtkuSancakli/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/utkusancakli/CLionProjects/graph-puzzle-game-UtkuSancakli/AbstractGraph.cpp">
+			<Option target="graph_puzzle_game_UtkuSancakli"/>
+		</Unit>
+		<Unit filename="/Users/utkusancakli/CLionProjects/graph-puzzle-game-UtkuSancakli/AbstractGraph.h">
+			<Option target="graph_puzzle_game_UtkuSancakli"/>
+		</Unit>
+		<Unit filename="/Users/utkusancakli/CLionProjects/graph-puzzle-game-UtkuSancakli/DisjointSet.cpp">
+			<Option target="graph_puzzle_game_UtkuSancakli"/>
+		</Unit>
+		<Unit filename="/Users/utkusancakli/CLionProjects/graph-puzzle-game-UtkuSancakli/DisjointSet.h">
+			<Option target="graph_puzzle_game_UtkuSancakli"/>
+		</Unit>
+		<Unit filename="/Users/utkusancakli/CLionProjects/graph-puzzle-game-UtkuSancakli/Edge.cpp">
+			<Option target="graph_puzzle_game_UtkuSancakli"/>
+		</Unit>
+		<Unit filename="/Users/utkusancakli/CLionProjects/graph-puzzle-game-UtkuSancakli/Edge.h">
+			<Option target="graph_puzzle_game_UtkuSancakli"/>
+		</Unit>
+		<Unit filename="/Users/utkusancakli/CLionProjects/graph-puzzle-game-UtkuSancakli/Element.cpp">
+			<Option target="graph_puzzle_game_UtkuSancakli"/>
+		</Unit>
+		<Unit filename="/Users/utkusancakli/CLionProjects/graph-puzzle-game-UtkuSancakli/Element.h">
+			<Option target="graph_puzzle_game_UtkuSancakli"/>
+		</Unit>
+		<Unit filename="/Users/utkusancakli/CLionProjects/graph-puzzle-game-UtkuSancakli/Graph.cpp">
+			<Option target="graph_puzzle_game_UtkuSancakli"/>
+		</Unit>
+		<Unit filename="/Users/utkusancakli/CLionProjects/graph-puzzle-game-UtkuSancakli/Graph.h">
+			<Option target="graph_puzzle_game_UtkuSancakli"/>
+		</Unit>
+		<Unit filename="/Users/utkusancakli/CLionProjects/graph-puzzle-game-UtkuSancakli/Heap.cpp">
+			<Option target="graph_puzzle_game_UtkuSancakli"/>
+		</Unit>
+		<Unit filename="/Users/utkusancakli/CLionProjects/graph-puzzle-game-UtkuSancakli/Heap.h">
+			<Option target="graph_puzzle_game_UtkuSancakli"/>
+		</Unit>
+		<Unit filename="/Users/utkusancakli/CLionProjects/graph-puzzle-game-UtkuSancakli/HeapNode.cpp">
+			<Option target="graph_puzzle_game_UtkuSancakli"/>
+		</Unit>
+		<Unit filename="/Users/utkusancakli/CLionProjects/graph-puzzle-game-UtkuSancakli/HeapNode.h">
+			<Option target="graph_puzzle_game_UtkuSancakli"/>
+		</Unit>
+		<Unit filename="/Users/utkusancakli/CLionProjects/graph-puzzle-game-UtkuSancakli/LinkedList.cpp">
+			<Option target="graph_puzzle_game_UtkuSancakli"/>
+		</Unit>
+		<Unit filename="/Users/utkusancakli/CLionProjects/graph-puzzle-game-UtkuSancakli/LinkedList.h">
+			<Option target="graph_puzzle_game_UtkuSancakli"/>
+		</Unit>
+		<Unit filename="/Users/utkusancakli/CLionProjects/graph-puzzle-game-UtkuSancakli/Main.cpp">
+			<Option target="graph_puzzle_game_UtkuSancakli"/>
+		</Unit>
+		<Unit filename="/Users/utkusancakli/CLionProjects/graph-puzzle-game-UtkuSancakli/MinHeap.cpp">
+			<Option target="graph_puzzle_game_UtkuSancakli"/>
+		</Unit>
+		<Unit filename="/Users/utkusancakli/CLionProjects/graph-puzzle-game-UtkuSancakli/MinHeap.h">
+			<Option target="graph_puzzle_game_UtkuSancakli"/>
+		</Unit>
+		<Unit filename="/Users/utkusancakli/CLionProjects/graph-puzzle-game-UtkuSancakli/Node.cpp">
+			<Option target="graph_puzzle_game_UtkuSancakli"/>
+		</Unit>
+		<Unit filename="/Users/utkusancakli/CLionProjects/graph-puzzle-game-UtkuSancakli/Node.h">
+			<Option target="graph_puzzle_game_UtkuSancakli"/>
+		</Unit>
+		<Unit filename="/Users/utkusancakli/CLionProjects/graph-puzzle-game-UtkuSancakli/Path.cpp">
+			<Option target="graph_puzzle_game_UtkuSancakli"/>
+		</Unit>
+		<Unit filename="/Users/utkusancakli/CLionProjects/graph-puzzle-game-UtkuSancakli/Path.h">
+			<Option target="graph_puzzle_game_UtkuSancakli"/>
+		</Unit>
+		<Unit filename="/Users/utkusancakli/CLionProjects/graph-puzzle-game-UtkuSancakli/Queue.cpp">
+			<Option target="graph_puzzle_game_UtkuSancakli"/>
+		</Unit>
+		<Unit filename="/Users/utkusancakli/CLionProjects/graph-puzzle-game-UtkuSancakli/Queue.h">
+			<Option target="graph_puzzle_game_UtkuSancakli"/>
+		</Unit>
+		<Unit filename="/Users/utkusancakli/CLionProjects/graph-puzzle-game-UtkuSancakli/Set.cpp">
+			<Option target="graph_puzzle_game_UtkuSancakli"/>
+		</Unit>
+		<Unit filename="/Users/utkusancakli/CLionProjects/graph-puzzle-game-UtkuSancakli/Set.h">
+			<Option target="graph_puzzle_game_UtkuSancakli"/>
+		</Unit>
+		<Unit filename="/Users/utkusancakli/CLionProjects/graph-puzzle-game-UtkuSancakli/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
